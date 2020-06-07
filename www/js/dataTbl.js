@@ -2,7 +2,7 @@ var dataArray=new Array();
 var schoolname= "JSS Public School";
 var address ="Sector 71, Delhi";
 var scn1 = "";
-var base_url = "https://greyboxerp.in/gbdemo/";
+var base_url = "https://greyboxerp.in/pinan/";
 
 
 function schoolDetails(data){

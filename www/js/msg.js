@@ -1,5 +1,5 @@
 //var base_url = "http://localhost/pgexample/teacherapp/www/";
-var base_url = "https://greyboxerp.in/gbdemo/";
+var base_url = "https://greyboxerp.in/pinan/";
 var att = [];
 
 function getCID(){

@@ -1,4 +1,4 @@
-var base_url = "https://greyboxerp.in/gbdemo/";
+var base_url = "https://greyboxerp.in/pinan/";
 
  var pictureSource;   // picture source
     var destinationType; // sets the format of returned value 
